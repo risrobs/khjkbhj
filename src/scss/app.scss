@@ -20,11 +20,9 @@ html {
 }
 
 .discount{
-    height: 100%;
-max-width: 600px;
-position: absolute;
-left: 0;
-top: 0;
-padding-top: 40px;
-background-color: lightblue;
+     border: 5px dotted #bbb;
+  width: 80%;
+  border-radius: 15px; 
+  margin: 0 auto; 
+  max-width: 600px;
 }
